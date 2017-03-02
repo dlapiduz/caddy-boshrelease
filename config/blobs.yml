@@ -1,9 +1,9 @@
 ---
 caddy/caddy:
-  object_id: 18a2ca87-34b1-4d40-a166-a030332430a7
-  sha: 0c0dccc57fcd11525090e749fa92d5e6664585ff
-  size: 14334400
+  object_id: ed461fc1-f1f7-4e4c-99f7-19c36f745902
+  sha: f688eec8740f46743436e989d0b94c877b523e13
+  size: 16099400
 caddy/caddy.tar.gz:
-  object_id: 8463ba47-129d-4f20-9fca-34e4c09d54a2
-  sha: ef48ebb3406e3f65024c946ccb995e454e7ad4d1
-  size: 5139429
+  object_id: 610a8fb9-fe9b-4670-bde1-d042e387e840
+  sha: a99caea43ee477fd8011dd41b87852e7f66e38a7
+  size: 5062076
