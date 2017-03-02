@@ -9,7 +9,7 @@ source /var/vcap/jobs/caddy/helpers/ctl_setup.sh 'caddy'
 export PORT=${PORT:-5000}
 export LANG=en_US.UTF-8
 
-export HOME=$JOB_DIR
+export HOME=$STORE_DIR
 
 case $1 in
 
