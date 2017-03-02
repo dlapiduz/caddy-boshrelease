@@ -4,6 +4,6 @@ caddy/caddy:
   sha: 0c0dccc57fcd11525090e749fa92d5e6664585ff
   size: 14334400
 caddy/caddy.tar.gz:
-  object_id: 0049c86d-c4e4-41bc-a3f3-2830b307d13c
-  sha: 8751cdea7c8070a195663c030bc5b8d78322f65c
-  size: 14336000
+  object_id: 8463ba47-129d-4f20-9fca-34e4c09d54a2
+  sha: ef48ebb3406e3f65024c946ccb995e454e7ad4d1
+  size: 5139429
