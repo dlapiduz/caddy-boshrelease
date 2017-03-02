@@ -1,5 +1,7 @@
 :443 {
-  tls ""
+  tls {
+    max_certs 10
+  }
   proxy / <%= p("caddy.endpoints").join(" ") %> {
     policy round_robin
     websocket
