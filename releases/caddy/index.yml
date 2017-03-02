@@ -16,4 +16,6 @@ builds:
     version: '7'
   1fc32b52-ae0a-4a9e-8b24-ac5f29af1932:
     version: '8'
+  368a9034-86ff-4adb-b570-243d88e69b50:
+    version: '9'
 format-version: '2'
