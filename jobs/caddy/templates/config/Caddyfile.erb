@@ -13,8 +13,8 @@
   proxy / <%= p("caddy.endpoints").join(" ") %> {
     policy round_robin
     websocket
-    proxy_header Host {host}
-    proxy_header X-Real-IP {remote}
-    proxy_header X-Forwarded-Proto {scheme}
+    header_upstream Host {host}
+    header_upstream X-Real-IP {remote}
+    header_upstream X-Forwarded-Proto {scheme}
   }
 }
