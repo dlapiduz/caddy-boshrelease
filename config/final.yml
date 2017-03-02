@@ -2,5 +2,5 @@
 blobstore:
   provider: s3
   options:
-    bucket_name: caddy-boshrelease
+    bucket_name: caddy-new-boshrelease
 final_name: caddy
