@@ -14,7 +14,7 @@ license:
   version: be7df4f66a69598d0730a3e06d9383bd2e1724b0
   fingerprint: be7df4f66a69598d0730a3e06d9383bd2e1724b0
   sha1: 162caa2a7136ef4b0eba912e286180c79f7fc991
-commit_hash: 2b5351ae
-uncommitted_changes: true
+commit_hash: 1d144d4d
+uncommitted_changes: false
 name: caddy
-version: '6'
+version: '7'
