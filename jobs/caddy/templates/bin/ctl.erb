@@ -21,7 +21,7 @@ case $1 in
 
     setcap cap_net_bind_service=+ep /var/vcap/packages/caddy/bin/caddy
 
-    ulimit -n 4096
+    ulimit -n 8192
 
     exec chpst -u vcap:vcap caddy \
          -conf /var/vcap/jobs/caddy/conf/Caddyfile \
