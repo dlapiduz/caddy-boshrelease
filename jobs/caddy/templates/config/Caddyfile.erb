@@ -9,6 +9,13 @@
     header_upstream X-Real-IP {remote}
     header_upstream X-Forwarded-Proto {scheme}
   }
+
+  timeouts {
+    read   0
+    header 0
+    write  0
+    idle   48h
+  }
 }
 
 :80 {
